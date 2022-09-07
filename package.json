@@ -1,0 +1,8 @@
+{
+  "name": "@herp-inc/types-channel-io",
+  "description": "Typings for ChannelIO JavaScript SDK",
+  "version": "0.1.0",
+  "types": "index.d.ts",
+  "repository": "https://github.com/herp-inc/types-channel-io",
+  "license": "MIT"
+}
